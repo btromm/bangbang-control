@@ -21,13 +21,13 @@ x.t_end = 5e5;
 x.sim_dt = .1;
 x.dt = .1;
 
-x.AB.NaV.add('tromm/BangBangController');
-x.AB.CaT.add('tromm/BangBangController');
-x.AB.CaS.add('tromm/BangBangController');
-x.AB.ACurrent.add('tromm/BangBangController');
-x.AB.KCa.add('tromm/BangBangController');
-x.AB.Kd.add('tromm/BangBangController');
-x.AB.HCurrent.add('tromm/BangBangController');
+x.AB.NaV.add('bang-bang/BangBangController');
+x.AB.CaT.add('bang-bang/BangBangController');
+x.AB.CaS.add('bang-bang/BangBangController');
+x.AB.ACurrent.add('bang-bang/BangBangController');
+x.AB.KCa.add('bang-bang/BangBangController');
+x.AB.Kd.add('bang-bang/BangBangController');
+x.AB.HCurrent.add('bang-bang/BangBangController');
 
 %% Integration
 
