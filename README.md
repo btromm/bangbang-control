@@ -8,5 +8,7 @@ instead, this implementation modifies conductances directly based on calcium err
 
 ## installation:
 
-* put the bang-bang folder in xolotl/c++/mechanisms/
-* use the darn matlab file to run it. darn easy front-end!
+* put .hpp in xolotl/c++/mechanisms/[whatever-you-want]/
+* use the darn matlab file to use it. darn easy front-end!
+
+for xolotl instructions, see: https://go.brandeis.edu/xolotl
