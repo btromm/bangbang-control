@@ -1,6 +1,6 @@
 ## Bang Bang Controller Mechanism   
 ### July 18, 2019   
-### Author: `Bobby Tromm`
+### Author: `Bobby Tromm` | `Marder Lab @ Brandeis U`
 
 ---
 
