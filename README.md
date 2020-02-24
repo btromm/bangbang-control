@@ -14,4 +14,4 @@ Instead, these controllers modify conductances or mRNA levels in a binary fashio
 *NOTE*: For xolotl instructions, see: https://go.brandeis.edu/xolotl
 
 ## References:
-* (Bang-bang control)[https://en.wikipedia.org/wiki/Bang–bang_control] (Wikipedia)
+* [Bang-bang control](https://en.wikipedia.org/wiki/Bang–bang_control) (Wikipedia)
