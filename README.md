@@ -1,8 +1,9 @@
 ## Bang Bang Controller Mechanism   
-### July 18, 2019 .  
+### July 18, 2019   
 ### Author: `Bobby Tromm`
 
 ---
+
 ## Description
 
 This calcium-dependent homeostatic mechanism ignores mRNA concentration entirely.
