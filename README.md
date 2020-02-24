@@ -1,14 +1,17 @@
-# bang-bang-homeostasis
-## written in C++
+# Bang Bang Controller for Xolotl
+## July 18, 2019
+---
+## Description
 
-simple direct conductance-based bang-bang controller for xolotl
-
-ignores mRNA concentration entirely
-instead, this implementation modifies conductances directly based on calcium error
+This calcium-dependent homeostatic mechanism ignores mRNA concentration entirely.
+Instead, these controllers modify conductances or mRNA levels in a binary fashion based on calcium error
 
 ## installation:
 
-* put .hpp in xolotl/c++/mechanisms/[whatever-you-want]/
-* use the darn matlab file to use it. darn easy front-end!
+* Transfer .hpp files to .../xolotl/c++/mechanisms/misc/
+* Done! Client code available to reproduce my own examples
 
-for xolotl instructions, see: https://go.brandeis.edu/xolotl
+*NOTE*: For xolotl instructions, see: https://go.brandeis.edu/xolotl
+
+## References:
+* (Bang-bang control)[https://en.wikipedia.org/wiki/Bang–bang_control] (Wikipedia)
