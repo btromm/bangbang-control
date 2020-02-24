@@ -6,7 +6,7 @@
 This calcium-dependent homeostatic mechanism ignores mRNA concentration entirely.
 Instead, these controllers modify conductances or mRNA levels in a binary fashion based on calcium error
 
-## installation:
+## Installation:
 
 * Transfer .hpp files to .../xolotl/c++/mechanisms/misc/
 * Done! Client code available to reproduce my own examples
