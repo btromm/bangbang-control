@@ -1,4 +1,4 @@
-## Bang Bang Controller Mechanism   
+## Bang-Bang Homeostatic Controller   
 ### July 18, 2019   
 ### Author: `Bobby Tromm` | `Marder Lab @ Brandeis U`
 
@@ -6,8 +6,7 @@
 
 ## Description
 
-This calcium-dependent homeostatic mechanism ignores mRNA concentration entirely.
-Instead, these controllers modify conductances or mRNA levels in a binary fashion based on calcium error
+This controller modifies ion channel maximal conductances through binary input. The controller either up- or down- regulates maximal conductances.
 
 ## Installation:
 
